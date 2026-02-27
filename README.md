@@ -62,3 +62,4 @@ No frameworks. No libraries. Just core web fundamentals.
 ## 📫 Contact
 
 Feel free to connect through the links provided in the Contact section of the website.
+
