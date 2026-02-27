@@ -61,5 +61,5 @@ No frameworks. No libraries. Just core web fundamentals.
 
 ## 📫 Contact
 
-Feel free to connect through the links provided in the Contact section of the website.
+Feel free to connect through the links provided in the Contact section of the website  or click the link below: [💼 LinkedIn](https://www.linkedin.com/in/hamadullah-noonari-web-developer/)
 
